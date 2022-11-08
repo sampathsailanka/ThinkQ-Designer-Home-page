@@ -74,7 +74,7 @@ header a:hover{
 #showcase-area {
   min-height: 400px;
   max-width: 100%;
-  background: url('ThinkQ Web Design(Responsive Front-End)/CSS/images/mesh.jpg') no-repeat 0 -10px;
+  background: url('./ThinkQ Web Design(Responsive Front-End)/CSS/images/mesh.jpg') no-repeat 0 -10px;
   background-size: cover;
   text-align: center;
   color: white;
